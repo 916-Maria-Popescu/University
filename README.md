@@ -18,16 +18,16 @@
 	</ul>	
 <br>
 <h2 title = "10.2021-02.2022"> 📌Semester 3 </h2>
-	<ul>waiting for reaching there...📅<\ul>
+	<ul>waiting for reaching there...📅</ul>
 <br>
 <h2 title = "03.2022-05.2022"> 📌Semester 4 </h2>
-	<ul>waiting for reaching there...📅<\ul>
+	<ul>waiting for reaching there...📅</ul>
 <br>
 <h2 title = "10.2022-02.2023"> 📌Semester 5 </h2>
-	<ul>waiting for reaching there...📅<\ul>
+	<ul>waiting for reaching there...📅</ul>
 <br>
 <h2 title = "03.2023-05.2023"> 📌Semester 6 </h2>
-	<ul>waiting for reaching there...📅<\ul>
+	<ul>waiting for reaching there...📅</ul>
 
 </body>
 </html>
