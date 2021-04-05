@@ -1,4 +1,19 @@
 # University
-Homework
+Homeworks, projects and tests
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pestcontrol-expert.ro%2Fblog%2Finformatii-utile-despre-veverite%2F&psig=AOvVaw0AmvQ2zoOwbT8ZCbfzRuAW&ust=1617480823323000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCf3uKv4O8CFQAAAAAdAAAAABAD" target="_blank"> :shipit: </a>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 title="10.2020-02.2021"> Semester 1 </h2>
+	<h3> Fundamental of Programming </h3>
+	<h3> Computer System Architecture </h3>
+<br>
+<h2 title = "03.2021-05.2021> Semester 2 </h2>
+	<h3> Data Structures and Algorithms </h3>
+	<h3> Object Oriented Programming </h3>
+	<h3> Graph Algoritms </h3>
+<br>
+
+</body>
+</html>
