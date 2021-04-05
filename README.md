@@ -3,7 +3,7 @@
 <html>
 <body>
 	<h1> 👩‍💻UNIVERSITY WORK👩‍💻</h1>
-	<ul>Here are some of my assigments, projects and tests I did for university at the <a href = "https://www.ubbcluj.ro/en/facultati/matematica_informatica">Faculty of Mathematics and Computer Science</a> with bachelor in Computer Science</ul>
+	<ul>Here are some of my assigments, projects and tests I did for university at the <a href = "https://www.ubbcluj.ro/en/facultati/matematica_informatica">Faculty of Mathematics and Computer Science</a> with bachelor in Computer Science.</ul>
 <h2 title="10.2020-02.2021"> 📌Semester 1 </h2>
 	<ul>
 	<h3> <a href = "https://github.com/916-Maria-Popescu/Fundamental-of-Programming">  &#128013;Fundamental of Programming </a> </h3>
