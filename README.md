@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:OldLace;">
 
 <h2 title="10.2020-02.2021"> Semester 1 </h2>
 	<h3> <a href = "https://github.com/916-Maria-Popescu/Fundamental-of-Programming"> Fundamental of Programming </a> </h3>
