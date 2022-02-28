@@ -18,7 +18,7 @@
 	</ul>	
 <br>
 <h2 title = "10.2021-02.2022"> 📌Semester 3 </h2>
-	<ul>waiting...📅</ul>
+	<ul><h3> <a href = "https://github.com/916-Maria-Popescu/MAP"> &#10133;MAP </a> </h3></ul>
 <br>
 <h2 title = "03.2022-05.2022"> 📌Semester 4 </h2>
 	<ul>waiting...📅</ul>
